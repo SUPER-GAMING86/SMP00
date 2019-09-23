@@ -13,8 +13,8 @@ echo
 echo  " ____________________-=[Private Tools]=-____________________" | lolcat
 echo  "|                                                           |" | lolcat
 echo  "|              Root®Autor      : Mr.5UP3R                   |" | lolcat
-echo  "|              Youtube         : Mr 5UP3R          |" | lolcat
-echo  "|              Thanks to       : ALLAH SWT                    |" | lolcat
+echo  "|              Youtube         : Mr 5UP3R                   |" | lolcat
+echo  "|              Thanks to       : ALLAH SWT                  |" | lolcat
 echo  "|___________________________________________________________|" | lolcat
 date | lolcat
 echo
